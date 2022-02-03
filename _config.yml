@@ -178,7 +178,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                "https-mandarincat-github-io"
+disqus:                https-mandarincat-github-io
 
 
 # Setting a tinyletter username will enable the newsletter subscription box.
